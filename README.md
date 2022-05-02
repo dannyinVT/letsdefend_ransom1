@@ -8,6 +8,7 @@ This alert appears to be ransomware related caused by some form of Malware.
 ![img](https://github.com/dannyinVT/letsdefend_ransom1/blob/main/Picture1.png)
 
 Upon closer inspection, we can see that the source address is from 172.16.17.88 MarkPRD.
+
 File name – ab.exe
 Hash - 0b486fe0503524cfe4726a4022fa6a68
 The provided file was uploaded to Virustotal and the following was shown:
